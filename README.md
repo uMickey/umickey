@@ -12,3 +12,5 @@ I'm beginner Web-Designer and HR-manager. My active learning began in 2021 and c
 ⚡ I want to become a good specialist.
 
 📫 Contact me:
+
+---
