@@ -21,3 +21,12 @@ I'm beginner Web-Designer and HR-manager. My active learning began in 2021 and c
 - Figma
 - Adobe Photoshop
 - Hammer
+
+---
+
+```mermaid
+erDiagram
+    CUSTOMER ||--o{ ORDER : places
+    ORDER ||--|{ LINE-ITEM : contains
+    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
+```
