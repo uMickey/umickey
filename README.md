@@ -1,8 +1,8 @@
-### 👋 Hi, my name is Nick!
+# 👋 Hi, my name is Nick!
 
 ---
 
-###👨‍💻 About me
+### 👨‍💻 About me
 I'm beginner Web-Designer and HR-manager. My active learning began in 2021 and continues to this day.
 
 🔭 Learning UX/UI.
