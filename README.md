@@ -18,5 +18,6 @@ I'm beginner Web-Designer and HR-manager. My active learning began in 2021 and c
 
 ### 🛠 Programms:
 
--
--
+- Figma
+- Adobe Photoshop
+- Hammer
